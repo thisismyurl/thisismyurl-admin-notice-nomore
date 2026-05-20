@@ -24,7 +24,7 @@ This plugin provides an explicit, all-or-nothing suppression mode for teams that
 ## Installation
 
 1. Copy the plugin to `wp-content/plugins/thisismyurl-admin-notice-nomore`.
-2. Activate **ThisIsMyURL Admin Notice NoMore** from the Plugins screen.
+2. Activate **This Is My URL Admin Notice NoMore** from the Plugins screen.
 3. Reload wp-admin pages.
 
 ## Scope and Trade-Offs
