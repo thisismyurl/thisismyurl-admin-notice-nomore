@@ -1,10 +1,14 @@
 # This Is My URL Admin Notice NoMore
 
-Current version: 1.6140
+[![WordPress](https://img.shields.io/badge/WordPress-6.0%2B-blue)](https://github.com/thisismyurl/thisismyurl-admin-notice-nomore)
+[![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4)](https://php.net/)
+[![License: GPL v2](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://www.gnu.org/licenses/gpl-2.0.html)
+
+Current version: 1.6143
 
 This Is My URL Admin Notice NoMore is a lightweight WordPress plugin that suppresses admin notices across wp-admin.
 
-If it saves you time or removes dashboard friction, you can support the work here: https://thisismyurl.com/donate/
+If it saves you time or removes dashboard friction, you can support the work here: https://github.com/sponsors/thisismyurl
 
 ## What It Does
 
@@ -39,7 +43,7 @@ Use in staging first, and only deploy to production when your update/security pr
 
 ## Support and Donations
 
-- Donate: https://thisismyurl.com/donate/
+- Donate: https://github.com/sponsors/thisismyurl
 - Support: https://thisismyurl.com/contact/
 - Source and releases: https://github.com/thisismyurl/thisismyurl-admin-notice-nomore
 
@@ -76,6 +80,13 @@ Accessibility review outcome:
 
 ## Changelog
 
+
+### 1.6143
+
+- Updated `Tested up to` to WordPress 7.0.
+- Standardized the donation link to GitHub Sponsors.
+- Added project governance files (PILLARS, CONTRIBUTING, SECURITY) and README badges.
+
 ### 1.6140
 
 - Updated display name to This Is My URL Admin Notice NoMore.
@@ -101,3 +112,6 @@ Accessibility review outcome:
 ## License
 
 GPL-2.0-or-later
+
+---
+*This project follows the [10 Core Pillars](PILLARS.md). Support quality work [here](https://github.com/sponsors/thisismyurl).*

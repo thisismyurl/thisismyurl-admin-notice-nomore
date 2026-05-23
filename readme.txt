@@ -3,13 +3,13 @@ Contributors: thisismyurl
 Author: Christopher Ross
 Author URI: https://thisismyurl.com/
 Plugin URI: https://github.com/thisismyurl/thisismyurl-admin-notice-nomore
-Donate link: https://thisismyurl.com/donate/
+Donate link: https://github.com/sponsors/thisismyurl
 Support Link: https://thisismyurl.com/contact/
 Tags: admin notices, dashboard cleanup, wp admin, notifications, admin ui
 Requires at least: 6.0
-Tested up to: 6.8
+Tested up to: 7.0
 Requires PHP: 7.4
-Stable tag: 1.6140
+Stable tag: 1.6143
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -100,6 +100,11 @@ Some plugins store a "dismissed" state only after the dismiss button is clicked.
 No. Auto-dismiss is opt-in using `THISISMYURL_ADMIN_NOTICE_NOMORE_AUTO_DISMISS` or the matching filter.
 
 == Changelog ==
+
+= 1.6143 =
+* Updated `Tested up to` to WordPress 7.0.
+* Standardized the donation link to GitHub Sponsors.
+* Added project governance files (PILLARS, CONTRIBUTING, SECURITY) and README badges.
 
 = 1.6140 =
 * Updated display name to "This Is My URL Admin Notice NoMore".
