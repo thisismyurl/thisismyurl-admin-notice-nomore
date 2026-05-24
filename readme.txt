@@ -1,4 +1,4 @@
-=== This Is My URL Admin Notice NoMore ===
+=== This Is My URL - Admin Notice NoMore ===
 Contributors: thisismyurl
 Author: Christopher Ross
 Author URI: https://thisismyurl.com/

@@ -1,4 +1,4 @@
-# This Is My URL Admin Notice NoMore
+# This Is My URL - Admin Notice NoMore
 
 [![WordPress](https://img.shields.io/badge/WordPress-6.0%2B-blue)](https://github.com/thisismyurl/thisismyurl-admin-notice-nomore)
 [![PHP](https://img.shields.io/badge/PHP-7.4%2B-777BB4)](https://php.net/)

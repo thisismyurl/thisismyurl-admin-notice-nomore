@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       This Is My URL Admin Notice NoMore
+ * Plugin Name:       This Is My URL - Admin Notice NoMore
  * Plugin URI:        https://thisismyurl.com
  * Description:       Automatically dismisses and hides all WordPress admin notices.
  * Version:           1.6143
@@ -202,6 +202,12 @@ final class ThisIsMyURL_Admin_Notice_NoMore {
 			'<a href="%1$s">%2$s</a>',
 			esc_url( self::bypass_url( admin_url() ) ),
 			esc_html__( 'Show Notices Once', 'thisismyurl-admin-notice-nomore' )
+		);
+
+		$links[] = sprintf(
+			'<a href="%1$s" target="_blank" rel="noopener noreferrer">%2$s</a>',
+			esc_url( 'https://github.com/sponsors/thisismyurl' ),
+			esc_html__( 'Sponsor', 'thisismyurl-admin-notice-nomore' )
 		);
 
 		return $links;
