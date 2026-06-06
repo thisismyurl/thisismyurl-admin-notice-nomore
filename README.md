@@ -1,8 +1,8 @@
-# This Is My URL - Admin Notice NoMore
+# Christopher Ross - Admin Notice NoMore
 
 [![WordPress](https://img.shields.io/badge/WordPress-6.0%2B-blue)](https://wordpress.org/) [![License](https://img.shields.io/badge/License-GPL--2.0-blue)](LICENSE)
 
-This Is My URL Admin Notice NoMore is a lightweight WordPress plugin that suppresses admin notices across wp-admin.
+Christopher Ross Admin Notice NoMore is a lightweight WordPress plugin that suppresses admin notices across wp-admin.
 
 ## What it does
 
@@ -24,7 +24,7 @@ This plugin provides an explicit, all-or-nothing suppression mode for teams that
 ## Installation
 
 1. Copy the plugin to `wp-content/plugins/thisismyurl-admin-notice-nomore`.
-2. Activate **This Is My URL Admin Notice NoMore** from the Plugins screen.
+2. Activate **Christopher Ross Admin Notice NoMore** from the Plugins screen.
 3. Reload wp-admin pages.
 
 ## Scope and trade-offs
@@ -99,9 +99,9 @@ Code contributions are welcome. The short version:
 
 The full workflow and standards live in [CONTRIBUTING.md](CONTRIBUTING.md). Contributing is never required, but it is always appreciated.
 
-## About This Is My URL
+## About Christopher Ross
 
-This plugin is built and maintained by [This Is My URL](https://thisismyurl.com/), the WordPress development and technical SEO practice of Christopher Ross. I help teams build WordPress sites that stay secure, fast, and maintainable, and I write small, focused plugins like this one for the problems those sites keep running into.
+This plugin is built and maintained by [Christopher Ross](https://thisismyurl.com/), the WordPress development and technical SEO practice of Christopher Ross. I help teams build WordPress sites that stay secure, fast, and maintainable, and I write small, focused plugins like this one for the problems those sites keep running into.
 
 ### My background
 

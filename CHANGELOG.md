@@ -17,7 +17,7 @@ project uses the `x.Yddd` versioning scheme: `x` = release class (`0` = pre-rele
 ## [1.6140] — 2026-05-20
 
 ### Changed
-- Updated display name to This Is My URL Admin Notice NoMore.
+- Updated display name to Christopher Ross Admin Notice NoMore.
 - Version moved to the `x.Yddd` Julian-day scheme.
 
 ### Added

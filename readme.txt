@@ -1,4 +1,4 @@
-=== This Is My URL - Admin Notice NoMore ===
+=== Admin Notice NoMore by Christopher Ross ===
 Contributors: thisismyurl
 Author: Christopher Ross
 Author URI: https://thisismyurl.com/
@@ -17,7 +17,7 @@ Automatically dismisses and hides WordPress admin notices across wp-admin.
 
 == Description ==
 
-This Is My URL Admin Notice NoMore suppresses all admin notices in the WordPress dashboard.
+Christopher Ross Admin Notice NoMore suppresses all admin notices in the WordPress dashboard.
 
 If this plugin saves you time, consider supporting the work at https://thisismyurl.com/donate/.
 
@@ -118,7 +118,7 @@ No. Auto-dismiss is opt-in using `THISISMYURL_ADMIN_NOTICE_NOMORE_AUTO_DISMISS` 
 * Added project governance files (PILLARS, CONTRIBUTING, SECURITY) and README badges.
 
 = 1.6140 =
-* Updated display name to "This Is My URL Admin Notice NoMore".
+* Updated display name to "Christopher Ross Admin Notice NoMore".
 * Added nonce-protected bypass URLs.
 * Added quick bypass shortcuts in plugin action links and admin bar.
 * Version moved to calendar format `1.6NNN`.
